@@ -196,3 +196,4 @@ define('MAIL_RECV', "xxxx@xxxx.com");//接收通知的邮件地址
 欢迎大家在使用过程中提出各种宝贵的意见和建议，以及各种bug，不胜感激
 
 反馈邮箱firesun.cn`at`gmail.com
+
